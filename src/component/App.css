@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#App{
+    min-height: 100vh;
+    width: auto;
+    background-color: rgb(218, 216, 224);
+    color: white;
+    padding: 10px 20px;
+}
